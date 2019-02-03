@@ -1,11 +1,11 @@
 #sunfw_section_header {
-  background-color: #f45245;
+  background-color: #34ccf4;
 }
 #sunfw_section_content-top {
   background-color: #fff;
 }
 #sunfw_section_content-top-below {
-  background-color: #e54e42;
+  background-color: #52d9fd;
   background-image: url("../../../../images/joomlashine/sample/pattern.png");
 }
 #sunfw_section_content-top-full {
@@ -13,9 +13,6 @@
 }
 #sunfw_section_content-bottom {
   background-color: #fff;
-}
-#sunfw_section_bottom {
-  background-color: #f45245;
 }
 #sunfw_section_footer {
   background-color: #202020;
@@ -29,7 +26,7 @@
   color: #5f728a;
 }
 #sunfw_section_footer a:hover {
-  color: #f45245;
+  color: #34ccf4;
 }
 #sunfw_section_copyright {
   background-color: #202020;
@@ -59,10 +56,10 @@
   font-size: 10px;
 }
 #sunfw_section_copyright a {
-  color: #f45245;
+  color: #34ccf4;
 }
 #sunfw_section_copyright a:hover {
-  color: #e54e42;
+  color: #52d9fd;
 }
 #sunfw_section_topbar {
   background-color: #000;
@@ -95,15 +92,7 @@
   color: #fff;
 }
 #sunfw_section_topbar a:hover {
-  color: #f45245;
-}
-#sunfw_section_content-bottom-over {
-  background-color: #e54e42;
-  background-image: url("../../../../images/joomlashine/placeholder/bg_blogpost.jpg");
-  background-repeat: repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center center;
+  color: #34ccf4;
 }
 #sunfw_section_footer-newsletter {
   background-color: #313131;
