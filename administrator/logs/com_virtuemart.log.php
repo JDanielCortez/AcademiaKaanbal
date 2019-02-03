@@ -390,3 +390,18 @@
 2019-02-03 04:00:31 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/dress-4.14.jpg
 2019-02-03 04:00:31 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/dress-2.1.jpg
 2019-02-03 04:00:31 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/boy-515.jpg
+2019-02-03 06:40:44 ERROR vmError: The parameter &lt;em&gt;Expected max amount&lt;/em&gt; is required for the payment &lt;em&gt;PayPal&lt;/em&gt; (&lt;em&gt;  3&lt;/em&gt;)
+2019-02-03 06:42:13 ERROR vmError: The parameter &lt;em&gt;Expected max amount&lt;/em&gt; is required for the payment &lt;em&gt;PayPal&lt;/em&gt; (&lt;em&gt;  3&lt;/em&gt;)
+2019-02-03 06:42:31 ERROR vmError: The parameter &lt;em&gt;Expected max amount&lt;/em&gt; is required for the payment &lt;em&gt;PayPal&lt;/em&gt; (&lt;em&gt;  3&lt;/em&gt;)
+2019-02-03 06:42:31 ERROR vmError: The parameter &lt;em&gt;Expected max amount&lt;/em&gt; is required for the payment &lt;em&gt;PayPal&lt;/em&gt; (&lt;em&gt;  3&lt;/em&gt;)
+2019-02-03 06:42:31 ERROR vmError: The parameter &lt;em&gt;Expected max amount&lt;/em&gt; is required for the payment &lt;em&gt;&lt;span class=&quot;vmpayment_name&quot;&gt;PayPal&lt;/span&gt; &lt;span style=&quot;color:red;font-weight:bold&quot;&gt;Sandbox (3)&lt;/span&gt;&lt;span class=&quot;vmpayment_description&quot;&gt;Paga tu curso con PayPal&lt;/span&gt;&lt;/em&gt; (&lt;em&gt;  3&lt;/em&gt;)
+2019-02-03 06:45:19 ERROR vmError: Programming error,Paypal expresscheckout: virtuemart_paymentmethod_id is 0
+2019-02-03 06:45:19 ERROR vmError: Programming error,Paypal expresscheckout: virtuemart_paymentmethod_id is 0
+2019-02-03 06:47:52 ERROR vmError: Save failed with the following error: Username in use.
+2019-02-03 06:52:18 ERROR vmError: Save failed with the following error: This email address is already registered.
+2019-02-03 07:12:50 ERROR vmError: Programming error,Paypal expresscheckout: virtuemart_paymentmethod_id is 0
+2019-02-03 07:12:50 ERROR vmError: Programming error,Paypal expresscheckout: virtuemart_paymentmethod_id is 0
+2019-02-03 07:15:59 ERROR vmError: Programming error,Paypal expresscheckout: virtuemart_paymentmethod_id is 0
+2019-02-03 07:15:59 ERROR vmError: Programming error,Paypal expresscheckout: virtuemart_paymentmethod_id is 0
+2019-02-03 07:18:39 ERROR vmError: Programming error,Paypal expresscheckout: virtuemart_paymentmethod_id is 0
+2019-02-03 07:18:39 ERROR vmError: Programming error,Paypal expresscheckout: virtuemart_paymentmethod_id is 0
