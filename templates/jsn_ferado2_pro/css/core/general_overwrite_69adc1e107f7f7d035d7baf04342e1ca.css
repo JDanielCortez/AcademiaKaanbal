@@ -1,7 +1,7 @@
 @import "../../assets/3rd-party/bootstrap/bootstrap/mixins";
 .redshop a {
-  color: #34ccf4;
+  color: #37a0bc;
 }
 .redshop a:hover, .redshop a:focus {
-  color: #34ccf4;
+  color: #37a0bc;
 }

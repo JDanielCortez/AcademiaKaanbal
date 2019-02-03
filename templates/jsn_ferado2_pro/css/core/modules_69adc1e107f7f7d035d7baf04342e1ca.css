@@ -24,14 +24,14 @@ body#sunfw-master .module-style-2 {
   background: #fff;
 }
 body#sunfw-master .module-style-2 .module-title .box-title {
-  background: #34ccf4;
+  background: #37a0bc;
   font-size: 18px;
   text-transform: capitalize;
   color: #fff;
   font-weight: bold;
 }
 body#sunfw-master .module-style-2 .module-title .box-title:before, body#sunfw-master .module-style-2 .module-title .box-title i[class*='fa-'] {
-  color: #34ccf4;
+  color: #37a0bc;
 }
 body#sunfw-master .module-style-2 .module-body, body#sunfw-master .module-style-2 .custom {
   color: #394a5c;

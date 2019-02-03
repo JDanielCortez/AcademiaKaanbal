@@ -7,10 +7,10 @@ body {
   line-height: 1.6;
 }
 a {
-  color: #34ccf4;
+  color: #37a0bc;
 }
 a:hover, a:focus {
-  color: #34ccf4;
+  color: #37a0bc;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: Lato;
@@ -57,7 +57,7 @@ h6, .h6 {
   border-color: #52d9fd;
 }
 .btn-primary {
-  background: #34ccf4;
+  background: #37a0bc;
   color: custom;
   font-size: 14px;
   font-weight: 400;

@@ -28,13 +28,3 @@
   background-color: custom;
   color: #52d9fd;
 }
-#menu_item_top-menu {
-  background-color: custom;
-}
-#menu_item_top-menu ul.navbar-nav > li > a, #menu_item_top-menu ul.navbar-nav > li > span.nav-header {
-  font-size: 13px;
-  color: custom;
-}
-#menu_item_top-menu ul.navbar-nav > li:hover > a, #menu_item_top-menu ul.navbar-nav > li.active > a, #menu_item_top-menu ul.navbar-nav > li:hover > span.nav-header, #menu_item_top-menu ul.navbar-nav > li.active > span.nav-header {
-  color: #34ccf4;
-}
