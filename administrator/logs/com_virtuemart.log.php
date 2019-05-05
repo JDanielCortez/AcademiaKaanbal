@@ -471,3 +471,47 @@
 #8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/AcademiaKaanbal/libraries/src/MVC/View/HtmlView.php:230]
 #9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/AcademiaKaanbal/administrator/components/com_modules/views/module/view.html.php:46]
 &lt;/pre&gt;
+2019-02-04 05:36:46 NO LANGUAGE LOADED  COM_VIRTUEMART &lt;pre&gt;#0  vmTrace() called at [/var/www/html/AcademiaKaanbal/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/AcademiaKaanbal/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/AcademiaKaanbal/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/AcademiaKaanbal/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/AcademiaKaanbal/layouts/joomla/edit/fieldset.php) called at [/var/www/html/AcademiaKaanbal/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/AcademiaKaanbal/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/AcademiaKaanbal/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/AcademiaKaanbal/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/AcademiaKaanbal/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/AcademiaKaanbal/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/AcademiaKaanbal/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-04 05:36:46 NO LANGUAGE LOADED  COM_VIRTUEMART_CONFIG &lt;pre&gt;#0  vmTrace() called at [/var/www/html/AcademiaKaanbal/administrator/components/com_virtuemart/helpers/vmlanguage.php:271]
+#1  vmLanguage::loadJLang() called at [/var/www/html/AcademiaKaanbal/administrator/components/com_virtuemart/fields/vmloadlang.php:39]
+#2  JFormFieldVmLoadLang-&gt;getInput() called at [/var/www/html/AcademiaKaanbal/libraries/src/Form/FormField.php:975]
+#3  Joomla\CMS\Form\FormField-&gt;renderField() called at [/var/www/html/AcademiaKaanbal/layouts/joomla/edit/fieldset.php:47]
+#4  include(/var/www/html/AcademiaKaanbal/layouts/joomla/edit/fieldset.php) called at [/var/www/html/AcademiaKaanbal/libraries/src/Layout/FileLayout.php:125]
+#5  Joomla\CMS\Layout\FileLayout-&gt;render() called at [/var/www/html/AcademiaKaanbal/libraries/src/Layout/LayoutHelper.php:73]
+#6  Joomla\CMS\Layout\LayoutHelper::render() called at [/var/www/html/AcademiaKaanbal/administrator/components/com_modules/views/module/tmpl/edit.php:231]
+#7  include(/var/www/html/AcademiaKaanbal/administrator/components/com_modules/views/module/tmpl/edit.php) called at [/var/www/html/AcademiaKaanbal/libraries/src/MVC/View/HtmlView.php:695]
+#8  Joomla\CMS\MVC\View\HtmlView-&gt;loadTemplate() called at [/var/www/html/AcademiaKaanbal/libraries/src/MVC/View/HtmlView.php:230]
+#9  Joomla\CMS\MVC\View\HtmlView-&gt;display() called at [/var/www/html/AcademiaKaanbal/administrator/components/com_modules/views/module/view.html.php:46]
+&lt;/pre&gt;
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/nik-macmillan-284747.jpg
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/senjuti-kundu-349426.jpg
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/nick-karvounis-423669 2.jpg
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/mohammed-hijas-334501.jpg
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/sale 1.png
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/product_09 copy.jpg
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/download.jpg
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/download-2.jpg
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/download-4.jpg
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/download-5.jpg
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/download-3.jpg
+2019-02-04 05:54:05 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/download-1.jpg
+2019-02-04 05:54:14 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/umbrella-2863641_640.jpg
+2019-02-04 05:54:14 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/category/seth-doyle-195684.jpg
+2019-02-04 06:02:11 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/dress-1.15.jpg
+2019-02-04 06:02:11 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/product_12.jpg
+2019-02-04 06:02:11 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/product_126.jpg
+2019-02-04 06:02:11 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/product_09.jpg
+2019-02-04 06:02:11 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/product_104.jpg
+2019-02-04 06:02:11 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/product_11.jpg
+2019-02-04 06:02:15 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/product_03.jpg
+2019-02-04 06:02:15 ERROR vmError: Couldnt create thumb, file not found /var/www/html/AcademiaKaanbal/images/joomlashine/sample/stories/virtuemart/product/product_08.jpg
